@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const { runProfiler } = require('./profiler');
 
 async function main() {
